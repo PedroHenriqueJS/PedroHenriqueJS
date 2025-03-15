@@ -46,7 +46,7 @@
 
 ### 🐍 Minhas contribuições no estilo Snake<br>
 
-div align="center">
+<div align="center">
   ![snake gif](https://github.com/PedroHenriqueJS/PedroHenriqueJS/blob/output/github-snake-dark.svg)
 </div>
 
