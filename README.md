@@ -44,7 +44,7 @@
 
 ---
 
-### 🐍 Minhas Contribuições no estilo Snake<br>
+### 🐍 Minhas contribuições no estilo Snake<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PedroHenriqueJS/PedroHenriqueJS/main/github-contribution-grid-snake.svg" alt="snake gif"/>
