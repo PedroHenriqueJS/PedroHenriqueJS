@@ -39,7 +39,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHenriqueJS&theme=tokyonight&hide_border=false&locale=pt-br"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueJS&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"/>
 </div>
 
 ---
